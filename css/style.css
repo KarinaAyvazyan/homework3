@@ -46,3 +46,24 @@ h3{
 .texts{
      font-family: Georgia, "Times New Roman", serif;
 }
+.title4{
+    color:rgb(184, 246, 60);
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+}
+.subtitle{
+font-family:'Times New Roman', Times, serif ;
+color:blue;
+text-align: right;
+}
+.link_google{
+    color: green; 
+    font-style: italic;
+
+}
+i{
+    color:rgba(233, 233, 69, 0.768);
+}
+.links{
+    text-align:center;
+}
