@@ -1,0 +1,48 @@
+.title{
+  font-family: Arial;
+  font-weight: 600;
+}
+.colors_list{
+    font-size: 20px;
+    line-height: 24px;
+
+}
+.text_muted1
+{
+    color:grey
+}
+.text_muted2{
+    color:#0d6efd;
+}
+.text_success{
+    color:#198754;
+}
+.text_info{
+    color:#0dcaf0
+}
+.text_warning{
+    color:#ffc107;
+}
+.text_danger{
+    color:#dc3545;
+}
+.text_secondary{
+    color:#6c757d;
+}   
+.text_dark{
+    color:#495057;
+}
+.text_body{
+    color:#212529;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+.text, ul, ol
+{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.texts{
+     font-family: Georgia, "Times New Roman", serif;
+}
